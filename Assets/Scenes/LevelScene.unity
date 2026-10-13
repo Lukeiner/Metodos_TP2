@@ -18412,13 +18412,13 @@ MonoBehaviour:
   obstaclePrefab: {fileID: 6273814644733128530, guid: 6dfc803cb01343645b6a80b2d1ebcd31, type: 3}
   groundLayer:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 0
   obstacleLayer:
     serializedVersion: 2
-    m_Bits: 256
+    m_Bits: 0
   noObstacleLayer:
     serializedVersion: 2
-    m_Bits: 512
+    m_Bits: 0
   mousePointerAction:
     m_Name: Mouse Pointer
     m_Type: 0
